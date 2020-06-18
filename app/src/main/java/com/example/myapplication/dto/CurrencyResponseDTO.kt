@@ -1,5 +1,7 @@
 package com.example.myapplication.dto
 
+import java.math.BigDecimal
+
 data class CurrencyResponseDTO(
     val Cur_ID: Int,
     val Date: String,

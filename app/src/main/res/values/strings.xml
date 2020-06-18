@@ -1,9 +1,10 @@
 <resources>
-    <string name="app_name">My Application</string>
+    <string name="app_name">Currency Converter</string>
     <string name="usd">USD</string>
     <string name="eur">EUR</string>
     <string name="byn">BYN</string>
     <string name="currency_converter">Currency Converter</string>
     <string name="rub">RUB</string>
+    <string name="pln">PLN</string>
     <string name="calculate">Calculate</string>
 </resources>
